@@ -1,0 +1,17 @@
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\bin\Debug\net8.0-windows\WinFormsLibrary1.deps.json
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\bin\Debug\net8.0-windows\WinFormsLibrary1.dll
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\bin\Debug\net8.0-windows\WinFormsLibrary1.pdb
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\obj\Debug\net8.0-windows\WinFormsLibrary1.Form1.resources
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\obj\Debug\net8.0-windows\WinFormsLibrary1.csproj.GenerateResource.cache
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\obj\Debug\net8.0-windows\WinFormsLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\obj\Debug\net8.0-windows\WinFormsLibrary1.AssemblyInfoInputs.cache
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\obj\Debug\net8.0-windows\WinFormsLibrary1.AssemblyInfo.cs
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\obj\Debug\net8.0-windows\WinFormsLibrary1.csproj.CoreCompileInputs.cache
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\obj\Debug\net8.0-windows\WinFormsLibrary1.dll
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\obj\Debug\net8.0-windows\refint\WinFormsLibrary1.dll
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\obj\Debug\net8.0-windows\WinFormsLibrary1.pdb
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\obj\Debug\net8.0-windows\ref\WinFormsLibrary1.dll
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\bin\Debug\net8.0-windows\WinFormsLibrary1.exe
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\bin\Debug\net8.0-windows\WinFormsLibrary1.runtimeconfig.json
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\obj\Debug\net8.0-windows\WinFormsLibrary1.genruntimeconfig.cache
+D:\meus-arquivos\importante\portifolio\WinFormsLibrary1\WinFormsLibrary1\obj\Debug\net8.0-windows\CustomComboBox.Controls.CustomGroupedComboBox.resources
